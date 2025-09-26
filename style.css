@@ -1,5 +1,5 @@
 body{
-  background-image: url('/pexels-pixabay-53459.jpg');
+  background-image: url('./pexels-pixabay-53459.jpg');
   background-repeat: no-repeat;
   background-size: 100%;
   text-align: center;
@@ -37,7 +37,7 @@ input{
 }
 
 .div{
-  background-image: url('/Screenshot\ 2025-05-26\ 211149.png');
+  background-image: url('./Screenshot\ 2025-05-26\ 211149.png');
   width: 720px;
   height: 400px;
   margin-left: 500px;
